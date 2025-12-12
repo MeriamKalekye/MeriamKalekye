@@ -5,8 +5,8 @@
 Nairobi, Kenya · MSc in AI & Data Science  
 _Building intelligent systems · Real-time AR applications · Workflow automation_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-kalekye)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-mbindyo-0983b8241/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meriamkaleche@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MeriamKalekye)
 
 ---
@@ -171,12 +171,19 @@ _Building intelligent systems · Real-time AR applications · Workflow automatio
 
 ---
 
+## 🎓 Certifications
+
+- **[Introduction to Model Context Protocol](https://verify.skilljar.com/c/xfqzebtxi7hc)** - Skilljar Verified Certificate
+- **[AI Fluency for Students](https://verify.skilljar.com/c/9dm3pbavimxj)** - Skilljar Verified Certificate
+
+---
+
 ## 📫 Let's Connect
 
 I'm always interested in collaborating on **computer vision projects**, **web applications**, or **intelligent automation systems**.
 
 - 📧 Email: [meriamkaleche@gmail.com](mailto:meriamkaleche@gmail.com)
-- 💼 LinkedIn: [meriam-kalekye](https://www.linkedin.com/in/meriam-mbindyo-0983b8241/)
+- 💼 LinkedIn: [meriam-mbindyo](https://www.linkedin.com/in/meriam-mbindyo-0983b8241/)
 - 🐙 GitHub: [@MeriamKalekye](https://github.com/MeriamKalekye)
 
 ---

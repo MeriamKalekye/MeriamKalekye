@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | AI/ML Engineer | Computer Vision Specialist**
 
-Nairobi, Kenya · MSc in AI & Data Science  
+Paris, France · MSc in AI Engineering.  
 _Building intelligent systems · Real-time AR applications · Workflow automation_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-mbindyo-0983b8241/)

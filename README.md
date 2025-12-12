@@ -175,8 +175,8 @@ _Building intelligent systems · Real-time AR applications · Workflow automatio
 
 I'm always interested in collaborating on **computer vision projects**, **web applications**, or **intelligent automation systems**.
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [meriam-kalekye](https://www.linkedin.com/in/meriam-kalekye)
+- 📧 Email: [meriamkaleche@gmail.com](mailto:meriamkaleche@gmail.com)
+- 💼 LinkedIn: [meriam-kalekye](https://www.linkedin.com/in/meriam-mbindyo-0983b8241/)
 - 🐙 GitHub: [@MeriamKalekye](https://github.com/MeriamKalekye)
 
 ---
